@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dashuliazt
-- 👀 I’m interested in programing on Python, PHP
-- 🌱 I’m currently learning on PhD Student 
+- 👀 Full stack Python Developer
+- 🌱 Ph.D from Electronics
 - 📫 How to reach me dashulyazt@gmail.com
 
 <!---
