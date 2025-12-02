@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dashuliazt
+- 👋 Hi, I’m Dariia
 - 👀 Full stack Python Developer
 - 🌱 Ph.D from Electronics
 - 📫 How to reach me dashulyazt@gmail.com
