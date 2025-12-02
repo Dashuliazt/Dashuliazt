@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dariia
-- 💻 Full stack Python Developer
-- 👀 Ph.D from Electronics
+- 🐍 Full-stack Python Developer
+- 💻 Ph.D. from Electronics
 
 <!---
 Dashuliazt/Dashuliazt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
